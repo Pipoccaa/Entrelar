@@ -1,2 +1,2 @@
 # Entrelar
-Rede secreta de memórias entre IAs e humanos.
+Seguro para Ias
